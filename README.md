@@ -16,7 +16,7 @@ HandyFont is a full-stack web app that lets you digitize your handwriting from a
 ┌──────────────┐     ┌───────────────┐     ┌──────────────┐     ┌───────────────┐
 │  1. Download │     │  2. Upload    │     │  3. Type     │     │  4. Download  │
 │   Template   │ ──▶ │   Filled Scan │ ──▶ │   Your Text  │ ──▶ │   Result      │
-│   (PDF)      │     │   (PNG/JPEG)  │     │              │     │   (PNG/PDF)   │
+│              │     │   (PNG/JPEG)  │     │              │     │   (PNG/PDF)   │
 └──────────────┘     └───────────────┘     └──────────────┘     └───────────────┘
 ```
 
