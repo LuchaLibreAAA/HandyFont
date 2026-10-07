@@ -9,7 +9,6 @@ import os
 import re
 from pathlib import Path
 from fontTools.fontBuilder import FontBuilder
-from fontTools.pens.t2Pen import T2Pen
 from fontTools.pens.ttGlyphPen import TTGlyphPen
 
 # UPEM = units per em — the coordinate space for the font
