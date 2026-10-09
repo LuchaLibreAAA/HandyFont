@@ -3,7 +3,7 @@
 </p>
 
 # ✍️ HandyFont
-**This project is still in development** <br>
+**This project is still in development** <br><br>
 **Turn your handwriting into a digital font — then render any text in your own hand.**
 
 HandyFont is a full-stack web app that lets you digitize your handwriting from a simple template, generate a personal font, and render any text as a realistic handwritten image — complete with natural jitter, baseline wobble, and paper backgrounds.
