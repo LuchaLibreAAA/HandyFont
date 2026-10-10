@@ -20,7 +20,7 @@ HandyFont is a full-stack web app that lets you digitize your handwriting from a
 └──────────────┘     └───────────────┘     └──────────────┘     └───────────────┘
 ```
 
-1. **Download** the character template PDF — it has a box for every letter, number, and punctuation mark.
+1. **Download** the character template PDF — it has a box for every letter, number, and punctuation mark
 2. **Print, fill it in by hand**, scan or photograph it, and upload the image.
 3. The backend **extracts** each glyph, **vectorizes** them, and **builds a TTF font** from your handwriting.
 4. **Type any text**, pick a paper style and pen color, and get a handwritten rendering with realistic imperfections.
