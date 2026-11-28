@@ -223,7 +223,7 @@ Upload (JPEG/PNG)
 - [ ] Multi-language / non-Latin character sets
 - [ ] Mobile-responsive capture flow
 - [ ] User accounts & font library
-ps. work on this is suspended indefefinitely
+ps. work on this is suspended indefinitely
 ---
 
 ## 📄 License
